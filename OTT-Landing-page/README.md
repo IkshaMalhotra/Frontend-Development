@@ -35,6 +35,12 @@ A fully responsive, visually rich landing page Clone of the Netflix India homepa
 
 ---
 
+## Screenshots
+
+![Landing Page Preview](screenshot/OTT-Landing-Page.png)
+
+---
+
 ## Author
 
 **Iksha Malhotra**  
