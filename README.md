@@ -4,6 +4,7 @@ A fully responsive, visually rich landing page Clone of the Netflix India homepa
 
 > ⚠️ **Disclaimer:** This is a frontend practice project built purely for educational purposes. All assets, brand names, and trademarks belong to their respective owners.
 
+Site live at https://ikshamalhotra.github.io/OTT-Landing-Page/
 ---
 
 ## Tech Stack
